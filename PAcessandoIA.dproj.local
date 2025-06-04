@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/05/30 14:17:01.603,=C:\Users\santa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/05/30 15:06:10.130,=C:\Users\santa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/05/30 15:06:50.204,C:\Delphi\ProjetoAcessandoIA\SisApi.Acesso.Http.pas=C:\Users\santa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/05/30 15:14:54.364,C:\Delphi\ProjetoAcessandoIA\UTelaPrincipal.dfm=C:\Users\santa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/05/30 15:14:54.364,C:\Delphi\ProjetoAcessandoIA\UTelaPrincipal.pas=C:\Users\santa\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/05/30 15:15:04.113,C:\Delphi\ProjetoAcessandoIA\PAcessandoIA.dproj=C:\Users\santa\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/06/03 16:14:31.543,=C:\Delphi\ProjetoAcessandoIA\Unit1.pas</Transaction>
+    <Transaction>2025/06/03 16:15:07.982,C:\Delphi\ProjetoAcessandoIA\SisApi.Model.RetornoOllama.pas=C:\Delphi\ProjetoAcessandoIA\Unit1.pas</Transaction>
+    <Transaction>2025/06/04 12:34:26.753,=C:\Delphi\ProjetoAcessandoIA\Unit1.pas</Transaction>
+    <Transaction>2025/06/04 12:36:01.897,C:\Delphi\ProjetoAcessandoIA\SisApi.Interfaces.AcessoOllama.pas=C:\Delphi\ProjetoAcessandoIA\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
